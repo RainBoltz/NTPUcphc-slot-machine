@@ -6,6 +6,7 @@
 
 ## 相關網址
 
+- DEMO網站：https://rainboltz.github.io/NTPUcphc-slot-machine/
 - FB粉絲專頁：https://www.facebook.com/NTPUcphc/
 - 抽獎影片：https://www.facebook.com/NTPUcphc/videos/1147543522033252/
 - 歲末宣傳影片
