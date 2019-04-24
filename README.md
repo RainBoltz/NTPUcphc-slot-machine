@@ -10,9 +10,9 @@
 - FB粉絲專頁：https://www.facebook.com/NTPUcphc/
 - 抽獎影片：https://www.facebook.com/NTPUcphc/videos/1147543522033252/
 - 歲末宣傳影片
-    - 中文系：https://www.youtube.com/watch?v=MzbTEysOJOw&t=11s
+    - 中文系：https://www.youtube.com/watch?v=MzbTEysOJOw
     - 財政系：https://www.youtube.com/watch?v=HqXTySff1vM
-    - 歷史系：https://www.youtube.com/watch?v=Mb1BY6sBIu4&t=2s
+    - 歷史系：https://www.youtube.com/watch?v=Mb1BY6sBIu4
     
 
 ## 實際操作
